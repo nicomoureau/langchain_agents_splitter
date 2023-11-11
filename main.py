@@ -1,4 +1,4 @@
-
+er 
 import pymysql
 
 from dotenv import load_dotenv
@@ -105,7 +105,7 @@ def main():
             
     )
     
-    grand_agent.run("Who is the prime minister of England?")
+    grand_agent.run("Enter your query here")
 
 
 if __name__ == '__main__':
